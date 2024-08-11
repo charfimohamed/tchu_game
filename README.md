@@ -37,3 +37,7 @@ For example, a ticket may require you to connect the cities of Bern and Geneva. 
 
 The game ends when a player has two or fewer wagons remaining. After each player takes one final turn, points are tallied, and the player with the highest score is declared the winner.
 
+
+## About this project
+
+This project, tCHu, was developed in collaboration with Omar Mezghani as part of the CS108 course at EPFL.
