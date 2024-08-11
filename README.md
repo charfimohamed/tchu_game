@@ -1,6 +1,8 @@
 # tCHu: Swiss Railway Adventure  (DEMO HERE)[]
 
 **tCHu** is a two-player game inspired by the Swiss version of the famous board game "Ticket to Ride." In this variant, players compete to complete various objectives by connecting different cities across Switzerland and neighboring countries using railway routes.
+![tchu](tchu.png)
+
 
 ## Getting Started
 
